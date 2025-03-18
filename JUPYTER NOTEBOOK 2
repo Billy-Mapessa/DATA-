@@ -48,6 +48,9 @@ Data columns (total 5 columns):
 dtypes: float64(4), object(1)
 memory usage: 6.0+ KB
 
+#small overview analysis of the data
+data.describe()
+
 
 
 
